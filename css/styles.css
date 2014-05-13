@@ -26,3 +26,6 @@ section {
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+h1{
+	font-family: UnifrakturCook, Garamond, sans-serif;
+}
