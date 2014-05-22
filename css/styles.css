@@ -28,4 +28,45 @@ section {
 }
 h1{
 	font-family: UnifrakturCook, Garamond, sans-serif;
+	color: #222;
+}
+img{
+	width: 250px;
+}
+h2{
+	font-family: "Droid Serif", "Baskerville Old Face", Times, serif;
+	color: #077;
+}
+h3{
+	font-family: Cuprum, Futura, sans-serif;
+	color: darkgreen;
+}
+p{
+	font-family: Lora, times, serif;
+	color: #633;
+}
+a:link, a:visited{
+	text-decoration: none;
+	color: #DA0;
+}
+a:hover, a:focus{
+	color: #0DA;
+}
+.color-1{
+	background-color: #D00;
+}
+.color-2{
+	background-color: #0AA;
+}
+.color-3{
+	background-color: #030;
+}
+.pattern-1{
+	background: url("../img/green_cup.png");
+}
+.pattern-2{
+	background: url("../img/crossword.png");
+}
+.pattern-3{
+	background: url("../img/paper_1.png");
 }
